@@ -1,0 +1,161 @@
+#div_top{
+	position:fixed;
+	background-color: ghostwhite;
+	width: 100%;
+	height: 56px;
+	padding-left:1%;
+	font-family:"微软雅黑";
+	padding-top: 1%;
+}
+#form{
+	padding-left: 40px;
+}
+
+#denglu{
+	text-decoration: none;
+	color: #000000;
+}
+
+#uli{
+	width:100%;
+}
+
+#ul1 > li{
+	margin-top: 10px;
+	font-size:10px;
+	width:12%;
+	list-style: none;
+	float:left;
+}
+a:link{
+	font-weight:bold;
+	text-decoration: none;
+	color: black;
+}
+
+#div_form{
+	
+	border-radius: 3px;
+	border: 1px solid #000;
+}
+
+
+#div1{
+	width: 100%;
+}
+#div1>img{
+	width: 100%;
+}
+*{
+	margin: 0px;
+}
+#div2{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+#div2>img{
+	width: 20%;
+}
+#div3{
+	width: 100%;
+}
+#div3> #div3_top>img{
+	width: 100%;
+}
+#div3_bm{
+	align-content: center;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+   
+}
+
+#div3_bm>div>{
+	width: 25%;
+}
+#div3_bm>div>img{
+	width: 100%;
+}
+
+#div3>#div3_bottom>img{
+	width: 100%;
+}
+
+#div3_bm2{
+	align-content: center;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	position:absolute;
+	z-index:1;left:0;top:98%;
+}
+
+#div3_bm2>div>{
+	width: 25%;
+}
+#div3_bm2>div>img{
+	width: 100%;
+}
+#div3_bm2>div>p{
+	text-align: center;
+	color: hotpink;
+}
+#fq1{
+	background-color: hotpink;
+	background-size: 20%;
+}
+
+#div3_c>img{
+	width: 100%;
+}
+
+#div3_bm3{
+	align-content: center;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	position:absolute;
+	z-index:1;left:0;top:130%;
+}
+#div3_bm3>div>{
+	width: 33.333%;
+}
+#div3_bm3>div>img{
+	width: 100%;
+}
+#div3_bm3>div>p{
+	text-align: center;
+	color: black;
+}
+
+
+#div3_bm4{
+	align-content: center;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	position:absolute;
+	z-index:1;left:0;top:150%;
+	left: 10%;
+}
+#div3_bm4>div>{
+	width: 33.333%;
+}
+#div3_bm4>div>img{
+	width: 33.333%;
+	background: white;
+}
+
+#div3_d>img{
+	width: 100%;
+}
+
+#div3_bm5{
+	position:absolute;
+	width: 100%;
+}
+
+#div3_bm5>img{
+	width: 100%;
+}
